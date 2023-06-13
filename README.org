@@ -2,9 +2,8 @@
 
 Lisp Interface to Federal Reserve Economic Data (FRED®)
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/plkrueger/CommonLispFred.git   |
-| commit  | 4364e54  |
-| systems | CommonLispFred |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/plkrueger/CommonLispFred.git |
+| commit  | 4364e54                                             |
+| systems | fred                                                |
+|---------+-----------------------------------------------------|

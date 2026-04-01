@@ -7,3 +7,4 @@ Lisp Interface to Federal Reserve Economic Data (FRED®)
 | commit  | 4364e54                                             |
 | systems | fred                                                |
 |---------+-----------------------------------------------------|
+ 
